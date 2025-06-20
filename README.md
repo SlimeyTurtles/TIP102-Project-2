@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[walkthrough gif](https://raw.githubusercontent.com/SlimeyTurtles/TIP102-Project-2/refs/heads/main/demo.gif)
+![walkthrough gif](https://raw.githubusercontent.com/SlimeyTurtles/TIP102-Project-2/refs/heads/main/demo.gif)
 
 ## Notes
 
