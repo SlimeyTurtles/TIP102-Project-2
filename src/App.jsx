@@ -26,6 +26,7 @@ function App() {
   return (
     <div className="flashcard-container">
       <h1>Flash Cards</h1>
+      <p>These are the flash cards. There is a total of {flashcards.length} flashcards.</p>
       <div className="card-wrapper" onClick={handleCardClick}>
         <div className={`flashcard ${flipped ? 'flipped' : ''}`}>
           <div className="front">{question}</div>
