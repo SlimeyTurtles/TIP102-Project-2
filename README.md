@@ -45,11 +45,11 @@ Here's a walkthrough of implemented required features:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I faced was being too lazy on Tuesday, so I didn't do it. I didn't plan 😔 so I had too much homework, and I didn't do the assignment.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Avinh Huynh
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
