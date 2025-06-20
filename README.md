@@ -1,6 +1,6 @@
 # Web Development Project 2 - *Flash Cards*
 
-Submitted by: **Avinh Huynh*
+Submitted by: **Avinh Huynh**
 
 This web app: **Lets you use spaced repetition to memorize information in the form of flash cards**
 
